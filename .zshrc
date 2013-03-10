@@ -39,3 +39,5 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/sbin:/Applications/VirtualBox.app/Contents/MacOS/
+
+set -o vi
